@@ -6,7 +6,7 @@ Task::Task() {
     delayUntil = 0;
     runnable = true;
 }
-// Constructor takes a function pointer to the task main function
+
 Task::Task(String n) {
     name = n;
     startTime = millis();
