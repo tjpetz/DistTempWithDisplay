@@ -35,3 +35,6 @@
 .vscode/arduino.json
 .vscode/c_cpp_properties.json
 .vscode/settings.json
+
+# Apple File system stuff
+.DS_Store
