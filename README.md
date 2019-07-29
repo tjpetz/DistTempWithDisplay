@@ -6,3 +6,7 @@ A simple Arduino project using:
 - LCD 16X2 display
 
 Note, this is a work in progress.  It will evolve over time frome something very simple to something a bit more complex including ideally an approach to task management on the Arduino.
+
+29 July 2019
+
+Integrated a simple round robin task management system.
